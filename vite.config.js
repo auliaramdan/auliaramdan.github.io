@@ -1,7 +1,7 @@
 import viteBasicSslPlugin from "@vitejs/plugin-basic-ssl"
 
 export default {
-    base: './src',
+    base: 'auliaramdan.github.io/src',
     outDir: './../dist',
     publicDir: './src/res',
     plugins: [
